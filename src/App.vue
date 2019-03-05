@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
+* 大家好，我是马洪
+* 很高兴用vue的框架做了一个动态简历，让我们开启我的自我介绍吧！。
 * 说做就做，我也来写一份简历！
 */
 
@@ -115,10 +115,10 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `马洪
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+web前端工程师
 
 技能
 ----
