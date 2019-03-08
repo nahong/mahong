@@ -116,8 +116,6 @@ html{
   font-size: .8em
   padding:.5em 0;
   display:block;
-
-  
 }
 `],
         currentMarkdown: '',
@@ -204,12 +202,15 @@ web前端工程师
       progressivelyShowResume() {
         return new Promise((resolve, reject) => {
           let length = this.fullMarkdown.length
+          console.log(length + "fullMarkdown的长度")
           let interval = this.interval
           let showResume = () => {
             if (this.currentMarkdown.length < length) {
               this.currentMarkdown = this.fullMarkdown.substring(0, this.currentMarkdown.length + 1)
               let lastChar = this.currentMarkdown[this.currentMarkdown.length - 1]
               let prevChar = this.currentMarkdown[this.currentMarkdown.length - 2]
+              console.log(lastChar +"____"+ "lastChar")
+              console.log(prevChar +"____"+ "prevChar")
               if (prevChar === '\n' && this.$refs.resumeEditor) {
                 this.$nextTick(() => this.$refs.resumeEditor.goBottom())
               }

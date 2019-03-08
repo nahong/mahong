@@ -12,6 +12,7 @@
     name: 'ResumeEditor',
     computed: {
       result: function () {
+        console.log(this.markdown)
         return this.enableHtml ? marked(this.markdown) : this.markdown
       }
     },
