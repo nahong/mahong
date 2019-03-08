@@ -112,6 +112,11 @@ html{
   padding: .5em;
   background: #ddd;
 }
+.resumeEditor div>em {
+  padding:.5rem 0;
+  ling-height：1rem;
+  display:block;
+}
 `],
         currentMarkdown: '',
         fullMarkdown: `马洪
