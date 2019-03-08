@@ -112,10 +112,13 @@ html{
   padding: .5em;
   background: #ddd;
 }
-.resumeEditor p em{
+.resumeEditor p em::before{
+  counter-increment: section;
+  content: counters(section, ".") " ";
   padding:.5em 0;
   line-height：1em;
   display:block;
+  font-family: "Microsoft YaHei";
 }
 `],
         currentMarkdown: '',
