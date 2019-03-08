@@ -35,6 +35,7 @@
   }
   .htmlMode {
     animation: flip 2s;
+    margin-right: 30px;
   }
 
   @keyframes flip {
