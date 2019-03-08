@@ -112,9 +112,9 @@ html{
   padding: .5em;
   background: #ddd;
 }
-.resumeEditor div> em{
-  padding:.5rem 0;
-  line-height：1rem;
+.resumeEditor p em{
+  padding:.5em 0;
+  line-height：1em;
   display:block;
 }
 `],
