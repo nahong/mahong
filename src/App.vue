@@ -114,7 +114,7 @@ html{
 }
 .resumeEditor p em{
   font-size: .8em;
-  magrin-top : 1em;
+  font-style : normal;
   display:block;
 }
 `],
