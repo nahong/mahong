@@ -114,7 +114,7 @@ html{
 }
 .resumeEditor p{
   font-size : 15px;
-  line-height : 15px;
+  line-height : 28px;
 }
 .resumeEditor p em{
   font-style : normal;
