@@ -112,8 +112,11 @@ html{
   padding: .5em;
   background: #ddd;
 }
+.resumeEditor p{
+  font-size : 15px;
+  line-height : 15px;
+}
 .resumeEditor p em{
-  font-size: .8em;
   font-style : normal;
   display:block;
 }
