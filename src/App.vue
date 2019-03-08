@@ -130,15 +130,15 @@ web前端工程师
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 深圳创客信息技术有限公司
+2. 北京东城云凯科技有限公司
+3. 深圳彩讯科技有限公司
+
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
+* [GitHub](https://github.com/nahong)
 * [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
 
 > 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
