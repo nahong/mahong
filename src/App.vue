@@ -25,7 +25,7 @@
           `/*
 * Inspired by http://strml.net/
 * 大家好，我是马洪
-* 很高兴用vue的框架做了一个动态简历，让我们开启我的自我介绍吧！
+* 很高兴用vue的框架做了一个动态简历，让我们开始吧！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -62,7 +62,7 @@ html{
           transform: rotateY(10deg) translateZ(-100px) ;
 }
 
-/* 接下来我给自己准备一个编辑器 */
+/* 接下来我给自己准备一个编辑器marked */
 .resumeEditor{
   position: fixed; right: 0; top: 0;
   padding: .5em;  margin: .5em;
@@ -78,7 +78,7 @@ html{
           `
 /* 这个简历好像差点什么
  * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
- * 简单，用开源工具翻译成 HTML 就行了
+ * 这里用开源工具翻译成 HTML 就行了
  */
 `
           ,
