@@ -132,9 +132,9 @@ web前端工程师
 
 *具有扎实的前端开发基础，能根据API开发文档完成开发任务
 *熟练使用WEB前端开发技术html5,css3,javascript，es6，scss、bootstrap、less以及jquery技术，编写符合w3c标准的代码以及熟练h5语义化标签。
-*熟练使用angularjs、vuejs、jqueryui、mui等主流架及组件，实现代码的模块化，组件的开发与封装
+*熟练使用angularjs、vuejs、jqueryui、elementui等主流架及组件，实现代码的模块化，组件的开发与封装
 *了解Reactjs和WEB移动端项目开发
-*熟练掌握ajax原理机制以及http请求协议
+*熟练掌握ajax以及http请求协议
 *熟悉使用webpack，gulp等打包工具以及git管理
 *熟练使用node的express框架
 *熟练使用echart制作图表
@@ -143,7 +143,7 @@ web前端工程师
 工作经历
 ----
 
-1. 2016/7--2017/5   深圳创客信息技术有限公司（外包）-中国移动在线计费平台-技术研发部
+1. 2016/7--2017/5   深圳创科信息技术有限公司（外包）-中国移动在线计费平台-技术研发部
 2. 2017/6--2018/3   北京东城云凯科技有限公司-移动一级能力开放平台-技术研发部
 3. 2018/3-2018/12   深圳彩讯科技有限公司-前端技术研发部
 
@@ -153,7 +153,7 @@ web前端工程师
 
 * [我的GitHub](https://github.com/nahong)
 * [我的码云](https://gitee.com/mdx520/events)
- > 谢谢浏览
+ > 谢谢浏览,这里仅用vuejs展示一个vue的应用，详细情况请以简历为准。
 
 `
       }
